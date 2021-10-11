@@ -1,4 +1,4 @@
-import { Sequelize } from "Sequelize";
+import { Sequelize } from "sequelize";
 
 const sequelize = new Sequelize(
   "db_a7a5b7_davidsa",
